@@ -1,4 +1,4 @@
-# Exploratory Data Analysis ISDA141 Assignment 2 - WIP 
+# Exploratory Data Analysis ISDA141 Assignment 2 - readme WIP 
 Exploratory Data Analysis involving Data Processing, Univariate, Bivariate, and Multivariate Analysis and Visualization 
 
 ## Tools Used:
