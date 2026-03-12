@@ -1,7 +1,7 @@
 # Exploratory-Data-Analysis_ISDA141_Assignment - WIP README
 Exploratory Data Analysis involving Data Processing, Univariate, Bivariate, and Multivariate Analysis and Visualization 
 
-# Tools Used:
+## Tools Used:
   * pandas
   * seaborn (predominantly)
   * matplotlib.
